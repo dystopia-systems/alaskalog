@@ -1,4 +1,4 @@
-module github.com/vectorman1/alaskalog
+module github.com/dystopia-systems/alaskalog
 
 go 1.14
 
